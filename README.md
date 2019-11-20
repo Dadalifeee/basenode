@@ -1,0 +1,2 @@
+# basenode
+base node
